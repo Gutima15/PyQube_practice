@@ -1,0 +1,211 @@
+Turno: 1 - Jugador: Vero_ - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 11 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 11 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 12 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 12 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 13 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 13 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 14 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 14 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 15 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 15 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 16 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 16 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 17 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 17 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 18 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 18 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 19 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 19 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 20 - Jugador: Saris - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Jorge - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Jorge - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: Jorge - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: Guti_ - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Jorge - Puntuación: 20 - Palabra: LEO
+Turno: 1 - Jugador: guti_ - Puntuación: 5 - Palabra: Y
+Turno: 2 - Jugador: Jorge - Puntuación: 15 - Palabra: EAN
+Turno: 2 - Jugador: guti_ - Puntuación: 14 - Palabra: PJA
+Turno: 3 - Jugador: Jorge - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: guti_ - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Jorge - Puntuación: 7 - Palabra: SR
+Turno: 4 - Jugador: guti_ - Puntuación: 18 - Palabra: HGW
+Turno: 1 - Jugador: Jorge - Puntuación: 27 - Palabra: WZJCCQ
+Turno: 1 - Jugador: Mata_ - Puntuación: 38 - Palabra: LKWTFYJ
+Turno: 2 - Jugador: Jorge - Puntuación: 39 - Palabra: BQVAJWO
+Turno: 2 - Jugador: Mata_ - Puntuación: 39 - Palabra: QFTXFMZ
+Turno: 3 - Jugador: Jorge - Puntuación: 40 - Palabra: IRBTLIE
+Turno: 3 - Jugador: Mata_ - Puntuación: 30 - Palabra: VYHCYBX
+Turno: 4 - Jugador: Jorge - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Jorge - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Mata_ - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: prueb - Puntuación: 25 - Palabra: NO
+Turno: 3 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: anum1 - Puntuación: 9 - Palabra: VZ
+Turno: 11 - Jugador: prueb - Puntuación: 10 - Palabra: E
+Turno: 11 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 12 - Jugador: prueb - Puntuación: 1 - Palabra: A
+Turno: 12 - Jugador: anum1 - Puntuación: 13 - Palabra: HY
+Turno: 13 - Jugador: prueb - Puntuación: 10 - Palabra: EY
+Turno: 13 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 14 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 14 - Jugador: anum1 - Puntuación: 6 - Palabra: BAS
+Turno: 15 - Jugador: prueb - Puntuación: 8 - Palabra: EC
+Turno: 15 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 16 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 16 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 17 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 17 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 18 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 18 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 19 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 19 - Jugador: anum1 - Puntuación: 0 - Palabra: 
+Turno: 20 - Jugador: prueb - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 11 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: prue1 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: prue2 - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: prue1 - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: prue1 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Prue1 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Prue2 - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 11 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 11 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 12 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 12 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 13 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 13 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 14 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 14 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 15 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 15 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 16 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 16 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 17 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 17 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 18 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 18 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 19 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 19 - Jugador: Jirjo - Puntuación: 0 - Palabra: 
+Turno: 20 - Jugador: Gatus - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 2 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 3 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 4 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 5 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 6 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 7 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 8 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 9 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 10 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 11 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 11 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 12 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 12 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 13 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 13 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 14 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 14 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 15 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 15 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 16 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 16 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 17 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 17 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 18 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 18 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 19 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 19 - Jugador: sdsds - Puntuación: 0 - Palabra: 
+Turno: 20 - Jugador: fgfgf - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: asdsd - Puntuación: 0 - Palabra: 
+Turno: 1 - Jugador: adfg_ - Puntuación: 0 - Palabra: 
